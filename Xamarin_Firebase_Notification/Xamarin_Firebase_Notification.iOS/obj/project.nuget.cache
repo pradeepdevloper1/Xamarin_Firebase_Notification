@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "EFbEHXRmOdNa3EiQD9yfdKeUESKiRD+9ZrLmPjCC5bru7yigER1f5ecIps398ZPM2FX1y7CsFFNrGBED3zSL2g==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin_Firebase_Notification\\Xamarin_Firebase_Notification\\Xamarin_Firebase_Notification.iOS\\Xamarin_Firebase_Notification.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\plugin.firebasepushnotification\\3.3.10\\plugin.firebasepushnotification.3.3.10.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.firebase.ios.cloudmessaging\\4.3.0\\xamarin.firebase.ios.cloudmessaging.4.3.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.firebase.ios.core\\6.6.6\\xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.firebase.ios.installations\\1.1.1\\xamarin.firebase.ios.installations.1.1.1.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.firebase.ios.instanceid\\4.3.3\\xamarin.firebase.ios.instanceid.4.3.3.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

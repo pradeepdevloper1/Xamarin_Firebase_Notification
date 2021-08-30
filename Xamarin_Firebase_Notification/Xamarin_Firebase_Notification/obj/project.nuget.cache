@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CeSnKzUJ8LpBL1B5s44VkrCnBl3aHH6kfZAffVZGvWpfLVKFCKXSNPkjPs/HRkfFHNh0taDtbW9uoTa+RdRqGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin_Firebase_Notification\\Xamarin_Firebase_Notification\\Xamarin_Firebase_Notification\\Xamarin_Firebase_Notification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\plugin.firebasepushnotification\\3.3.10\\plugin.firebasepushnotification.3.3.10.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pradeep.k\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

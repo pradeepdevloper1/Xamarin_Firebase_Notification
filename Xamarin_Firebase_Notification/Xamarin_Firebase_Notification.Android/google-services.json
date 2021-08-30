@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243593853761",
+    "project_id": "xamarinfirebasenotif",
+    "storage_bucket": "xamarinfirebasenotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243593853761:android:02cbf43fed9055d36dffc0",
+        "android_client_info": {
+          "package_name": "com.companyname.xamarin_firebase_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243593853761-4n193etjalr5le4hn3oqc6rr6kq6h7h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3OYXtToGTThFX_Vyr3if3yV-1vPQvWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243593853761-4n193etjalr5le4hn3oqc6rr6kq6h7h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
